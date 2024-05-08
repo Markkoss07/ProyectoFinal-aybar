@@ -65,7 +65,7 @@ io.on('connection', socket => {
 });
 
 server.listen(PORT, () => {
-    logger.info(`Server running on port ${PORT}`);
+    logger.info(`Server ejecutandose en el puerto ${PORT}`);
 });
 
 export function getIO() {

@@ -2,7 +2,7 @@ import swaggerJsdoc from 'swagger-jsdoc';
 
 const options = {
     definition: {
-        openapi: "3.0.0",
+        openapi: "3.0.1",
         info: {
             title: "Express API ecommerce",
             description: "Ecommerce"
